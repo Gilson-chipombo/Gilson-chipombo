@@ -2,8 +2,7 @@
 
 ### Software Engineer | Backend Specialist | Tech Student | ICPC
 
-Sou um desenvolvedor especializado em backend, arquitetura de APIs, System Design e aplicações mobile, criando soluções orientadas à performance, segurança e escalabilidade.
-Sou apaixonado por algoritmos e estruturas de dados — reforçada pelos estudos contínuos de Competitive Programming, que desenvolvem raciocínio lógico, otimização e resolução eficiente de problemas.
+Sou um desenvolvedor especializado em backend, arquitetura de APIs, System Design e aplicações mobile, criando soluções orientadas à performance, segurança e escalabilidade. Sou apaixonado por algoritmos e estruturas de dados — reforçada pelos estudos contínuos de Competitive Programming, que desenvolvem raciocínio lógico, otimização e resolução eficiente de problemas.
 
 Atualmente estudo Engenharia de Software (42 Luanda & INSTIC antigo ISUTIC) e aplico esses conhecimentos em projetos reais envolvendo backend, mobile, IA, e arquitetura de sistemas.
 
