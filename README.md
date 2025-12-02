@@ -1,4 +1,4 @@
-# Olá, eu sou Gilson Bravo Chipombo, O Dev 👋
+# Olá, eu sou Gilson Chipombo👋
 
 ### Software Engineer | Backend Specialist | Tech Student | ICPC
 
