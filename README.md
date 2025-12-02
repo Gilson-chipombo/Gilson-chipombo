@@ -5,7 +5,7 @@
 Sou um desenvolvedor especializado em backend, arquitetura de APIs, infraestrutura de redes e aplicações mobile, criando soluções orientadas à performance, segurança e escalabilidade.
 Sou apaixonado por algoritmos e estruturas de dados — reforçada pelos estudos contínuos de Competitive Programming, que desenvolvem raciocínio lógico, otimização e resolução eficiente de problemas.
 
-Atualmente estudo Cibersegurança e Engenharia de Software (42 Luanda & ISUTIC) e aplico esses conhecimentos em projetos reais envolvendo backend, mobile, IA, e arquitetura de sistemas.
+Atualmente estudo Engenharia de Software (42 Luanda & ISUTIC) e aplico esses conhecimentos em projetos reais envolvendo backend, mobile, IA, e arquitetura de sistemas.
 
 Minha missão é clara:
 entregar sistemas sólidos, bem projetados e prontos para escalar com qualidade.
