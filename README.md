@@ -1,10 +1,11 @@
-# Olá, eu sou Gilson Bravo Chipombo, O programador 👋
+# Olá, eu sou Gilson Bravo Chipombo, O Dev 👋
 
-### Tech Lead | Senior Software Engineer | Python Specialist
+### Software Engineer | Backend Specialist | Tech Student
 
-Com mais de 14 anos de experiência no ecossistema **Python**, sou um Engenheiro de Software Sênior e Líder Técnico apaixonado por arquitetar e construir soluções digitais robustas, escaláveis e de alto impacto.
+Sou um desenvolvedor focado em construir soluções robustas, escaláveis e seguras, com experiência prática em backend, redes, arquitetura de APIs e desenvolvimento mobile.
+Atualmente estudo Pentest, Cibersegurança e Engenharia de Software (42 Luanda & ISUTIC), e combino este conhecimento com projetos reais nas áreas de backend, IA, redes e mobile.
 
-Minha trajetória é marcada pela liderança técnica de equipes de alta performance e pelo desenvolvimento de sistemas complexos de ponta a ponta — da concepção e documentação de arquitetura (ADRs, Design Docs) até a entrega em produção e a otimização contínua de performance e custos (FinOps). Sou movido pelo desafio de resolver problemas complexos e transformar ideias em software de qualidade.
+Minha missão é simples: transformar ideias em sistemas sólidos, performáticos e bem arquitetados.
 
 ---
 
