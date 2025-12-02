@@ -1,4 +1,4 @@
-# Olá, eu sou Gilson Chipombo👋
+# Olá, eu sou Gilson Chipombo
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Software+Developer;Coding+My+Life+Every+Day;Always+Learning!;&color=00D9FF" />
 
 ### Software Engineer | Backend Specialist | Tech Student | ICPC
@@ -14,13 +14,13 @@ entregar sistemas sólidos, bem projetados e prontos para escalar com qualidade.
 
 ### Sobre Mim
 
-- 🔭Tenho grande interesse em arquitetura de sistemas distribuídos, design de APIs escaláveis e boas práticas de engenharia voltadas para performance e resiliência.
+- Tenho grande interesse em arquitetura de sistemas distribuídos, design de APIs escaláveis e boas práticas de engenharia voltadas para performance e resiliência.
 
-- ⚡ Apaixonado por programação competitiva, explorando problemas que envolvem algoritmos, estruturas de dados, análise de complexidade e raciocínio otimizado — aplicando esses conceitos na construção de sistemas mais eficientes e bem arquitetados.
+- Apaixonado por programação competitiva, explorando problemas que envolvem algoritmos, estruturas de dados, análise de complexidade e raciocínio otimizado — aplicando esses conceitos na construção de sistemas mais eficientes e bem arquitetados.
 
-- 🚪 Estou aberto para novos desafios que me façam crescer profissionalmente.
+- Estou aberto para novos desafios que me façam crescer profissionalmente.
 
-- 💬 Você pode me encontrar no **LinkedIn**: `https://www.linkedin.com/in/gilson-bravo-fernando-chipombo-aa0ba4209/`
+- Você pode me encontrar no **LinkedIn**: `https://www.linkedin.com/in/gilson-bravo-fernando-chipombo-aa0ba4209/`
 
 ---
 
