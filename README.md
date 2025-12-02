@@ -14,13 +14,13 @@ entregar sistemas sólidos, bem projetados e prontos para escalar com qualidade.
 
 ### Sobre Mim
 
-- 🔭enho grande interesse em arquitetura de sistemas distribuídos, design de APIs escaláveis e boas práticas de engenharia voltadas para performance e resiliência.
+- 🔭Tenho grande interesse em arquitetura de sistemas distribuídos, design de APIs escaláveis e boas práticas de engenharia voltadas para performance e resiliência.
 
 - 🌱Apaixonado por programação competitiva, explorando problemas que envolvem algoritmos, estruturas de dados, análise de complexidade e raciocínio otimizado — aplicando esses conceitos na construção de sistemas mais eficientes e bem arquitetados.
 
-- 🤔 Estou aberto a trocar ideias sobre desafios da engenharia de software e para novos desafios.
+- 🤔 Estou aberto para novos desafios que me façam crescer profissionalmente.
 
-- 📫 Você pode me encontrar no **LinkedIn**: `https://www.linkedin.com/in/gilson-bravo-fernando-chipombo-aa0ba4209/`
+- 🚪 Você pode me encontrar no **LinkedIn**: `https://www.linkedin.com/in/gilson-bravo-fernando-chipombo-aa0ba4209/`
 
 ---
 
