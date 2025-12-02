@@ -1,6 +1,6 @@
 # Olá, eu sou Gilson Bravo Chipombo, O Dev 👋
 
-### Software Engineer | Backend Specialist | Tech Student
+### Software Engineer | Backend Specialist | Tech Student | ICPC
 
 Sou um desenvolvedor focado em construir soluções robustas, escaláveis e seguras, com experiência prática em backend, redes, arquitetura de APIs e desenvolvimento mobile.
 Atualmente estudo Pentest, Cibersegurança e Engenharia de Software (42 Luanda & ISUTIC), e combino este conhecimento com projetos reais nas áreas de backend, IA, redes e mobile.
@@ -17,10 +17,7 @@ Minha missão é simples: transformar ideias em sistemas sólidos, performático
 
 - 🤔 Estou aberto a trocar ideias sobre estratégias de liderança técnica, design de sistemas, boas práticas em Python e os desafios da engenharia de software em larga escala.
 
-
 - 📫 Você pode me encontrar no **LinkedIn**: `https://www.linkedin.com/in/gilson-bravo-fernando-chipombo-aa0ba4209/`
-
-- ⚡ **Fun fact:** Quando não estou codificando, você pode me encontrar explorando mundos em jogos eletrônicos, aproveitando a natureza ou maratonando séries de ficção científica e westerns.
 
 ---
 
