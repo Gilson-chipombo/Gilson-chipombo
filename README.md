@@ -14,9 +14,9 @@ entregar sistemas sólidos, bem projetados e prontos para escalar com qualidade.
 
 ### Sobre Mim
 
-- 🔭 Meu foco profissional é o design de sistemas distribuídos, arquitetura de microsserviços e a aplicação de soluções cloud-native (AWS) para garantir escalabilidade e resiliência.
+- 🔭enho grande interesse em arquitetura de sistemas distribuídos, design de APIs escaláveis e boas práticas de engenharia voltadas para performance e resiliência.
 
-- 🌱 Estou sempre aprofundando meus conhecimentos em observabilidade (OpenTelemetry, New Relic), computação serverless e as melhores práticas em desenvolvimento assíncrono com ferramentas como Kafka e SQS.
+- 🌱Apaixonado por programação competitiva, explorando problemas que envolvem algoritmos, estruturas de dados, análise de complexidade e raciocínio otimizado — aplicando esses conceitos na construção de sistemas mais eficientes e bem arquitetados.
 
 - 🤔 Estou aberto a trocar ideias sobre estratégias de liderança técnica, design de sistemas, boas práticas em Python e os desafios da engenharia de software em larga escala.
 
