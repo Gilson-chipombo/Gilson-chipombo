@@ -1,5 +1,5 @@
 # Olá, eu sou Gilson Chipombo👋
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Estudante+da+42Luanda;Software+Developer;Always+Learning!&color=00D9FF" />
 ### Software Engineer | Backend Specialist | Tech Student | ICPC
 
 Sou um desenvolvedor especializado em backend, arquitetura de APIs, System Design e aplicações mobile, criando soluções orientadas à performance, segurança e escalabilidade.
