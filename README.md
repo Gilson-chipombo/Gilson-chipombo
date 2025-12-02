@@ -2,10 +2,13 @@
 
 ### Software Engineer | Backend Specialist | Tech Student | ICPC
 
-Sou um desenvolvedor focado em construir soluções robustas, escaláveis e seguras, com experiência prática em backend, redes, arquitetura de APIs e desenvolvimento mobile.
-Atualmente estudo Pentest, Cibersegurança e Engenharia de Software (42 Luanda & ISUTIC), e combino este conhecimento com projetos reais nas áreas de backend, IA, redes e mobile.
+Sou um desenvolvedor especializado em backend, arquitetura de APIs, infraestrutura de redes e aplicações mobile, criando soluções orientadas à performance, segurança e escalabilidade.
+Sou apaixonado por algoritmos e estruturas de dados — reforçada pelos estudos contínuos de Competitive Programming, que desenvolvem raciocínio lógico, otimização e resolução eficiente de problemas.
 
-Minha missão é simples: transformar ideias em sistemas sólidos, performáticos e bem arquitetados.
+Atualmente estudo Cibersegurança e Engenharia de Software (42 Luanda & ISUTIC) e aplico esses conhecimentos em projetos reais envolvendo backend, mobile, IA, e arquitetura de sistemas.
+
+Minha missão é clara:
+entregar sistemas sólidos, bem projetados e prontos para escalar com qualidade.
 
 ---
 
