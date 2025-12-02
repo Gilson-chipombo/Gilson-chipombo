@@ -18,7 +18,7 @@ entregar sistemas sólidos, bem projetados e prontos para escalar com qualidade.
 
 - 🌱Apaixonado por programação competitiva, explorando problemas que envolvem algoritmos, estruturas de dados, análise de complexidade e raciocínio otimizado — aplicando esses conceitos na construção de sistemas mais eficientes e bem arquitetados.
 
-- 🤔 Estou aberto a trocar ideias sobre estratégias de liderança técnica, design de sistemas, boas práticas em Python e os desafios da engenharia de software em larga escala.
+- 🤔 Estou aberto a trocar ideias sobre desafios da engenharia de software e para novos desafios.
 
 - 📫 Você pode me encontrar no **LinkedIn**: `https://www.linkedin.com/in/gilson-bravo-fernando-chipombo-aa0ba4209/`
 
