@@ -17,9 +17,8 @@ Minha missão é simples: transformar ideias em sistemas sólidos, performático
 
 - 🤔 Estou aberto a trocar ideias sobre estratégias de liderança técnica, design de sistemas, boas práticas em Python e os desafios da engenharia de software em larga escala.
 
-- 💬 Pergunte-me sobre **Python, Django, FastAPI, Django Ninja, Arquitetura de Software, Microsserviços, AWS, Kubernetes** e **Liderança Técnica**.
 
-- 📫 Você pode me encontrar no **LinkedIn**: `https://www.linkedin.com/in/gilsonpaulino/`
+- 📫 Você pode me encontrar no **LinkedIn**: `https://www.linkedin.com/in/gilson-bravo-fernando-chipombo-aa0ba4209/`
 
 - ⚡ **Fun fact:** Quando não estou codificando, você pode me encontrar explorando mundos em jogos eletrônicos, aproveitando a natureza ou maratonando séries de ficção científica e westerns.
 
