@@ -1,5 +1,5 @@
 # Olá, eu sou Gilson Chipombo👋
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Software+Developer;Always+Learning!;Coding+my+Life&color=00D9FF" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Software+Developer;Coding+my+Life+Every+DayAlways+Learning!;&color=00D9FF" />
 
 ### Software Engineer | Backend Specialist | Tech Student | ICPC
 
